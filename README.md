@@ -158,7 +158,7 @@ Proyek ini siap dikonversi ke APK Android menggunakan:
 ## 🧑‍💻 Kontributor
 
 **👨‍💻 Mohammad Diky Pradana**  
-> GitHub: [@nama-kamu](https://github.com/nama-kamu)
+> GitHub: [@mohammaddiky28](https://github.com/mohammaddiky28)
 
 ---
 
